@@ -1,0 +1,56 @@
+{
+  "title": "Grupos Medellin colectados por Casa Teatro El Poblado",
+  "name": "Grupos Medellin colectados por Casa Teatro El Poblado",
+  "description": "Grupos Medellin colectados por Casa Teatro El Poblado",
+  "licenses": [
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "id": "CC-BY-SA-4.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Artistas_casa_teatro _filtrado.csv",
+      "path": "Artistas_casa_teatro _filtrado.csv",
+      "mediatype": "text/csv",
+      "bytes": 38441,
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "Descripción",
+            "type": "string"
+          },
+          {
+            "name": "Área",
+            "type": "string"
+          },
+          {
+            "name": "Web",
+            "type": "string"
+          },
+          {
+            "name": "Última Actualización",
+            "type": "string"
+          },
+          {
+            "name": "Fuente de datos",
+            "type": "string"
+          },
+          {
+            "name": "gx_media_links",
+            "type": "string"
+          },
+          {
+            "name": "geometry",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
