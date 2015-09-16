@@ -11,8 +11,8 @@
   ],
   "resources": [
     {
-      "name": "data/Artistas_casa_teatro _filtrado.csv",
-      "path": "Artistas_casa_teatro _filtrado.csv",
+      "name": "Artistas_casa_teatro _filtrado.csv",
+      "path": "data/Artistas_casa_teatro _filtrado.csv",
       "mediatype": "text/csv",
       "bytes": 38441,
       "schema": {
